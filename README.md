@@ -6,13 +6,13 @@
 Create an application that does various calculations on shapes
 
 ## Application should have:
-- `Circle` class
-- `Cubes` class
-- `Pyramid` class
-- `Rectangle` class
-- `Sphere` class
-- `Triangle` class
-- Unit test
+- `Circle` class: methods to calculate circumference and diameter.
+- `Cubes` class: methods to calculate volume and surface area.
+- `Pyramid` class: a method to calculate volume.
+- `Rectangle` class: methods to calculate area and square.
+- `Sphere` class: methods to calculate volume and surface area.
+- `Triangle` class: a method to calculate perimeter.
+- Unit test for those methods
 
 
 ## Installation:
@@ -34,3 +34,14 @@ b) Command for unit testing. Run this in Shapes.Tests directory:
 $ dotnet restore && dotnet test
 ```
 
+## Known Bugs
+* No known bugs at this time.
+
+## Support and contact details
+ misaki.koonce@gmail.com
+
+## Technologies Used
+_Git, GitHub, C# and MS Test
+
+## License
+Copyright © 2019 __Misaki Koonce__ under the MIT License
